@@ -10,14 +10,14 @@ public class Pluralize {
         String animal;
 
         //test cases to comment in or out to run  program and be sure program works as expected
-//        count = 10;
-//        animal = "turtle";
+        count = 10;
+        animal = "turtle";
 
 //        count = 0;
 //        animal = "dog";
 
-        count = 1;
-        animal = "dragon";
+//        count = 1;
+//        animal = "dragon";
 
         if (count == 0){
             System.out.println("Let's pluralize! I own " + count + " "+ animal + "s.\n");
@@ -26,6 +26,6 @@ public class Pluralize {
         } else {
             System.out.println("Let's pluralize! I own " + count + " " + animal + ".\n");
         }
-        System.out.println("Thanks for checking this program out. \nSuccessful code with end with the message \n\'Process finished with exit code 0\'");
+        System.out.println("Thanks for checking this program out. \nSuccessful code will end with the message \n\'Process finished with exit code 0\'");
     }
 }

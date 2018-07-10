@@ -8,7 +8,7 @@ public class FlipNCoins {
         //initialize the variable "n" for number of flips to be used in the flipNHeads method
         int n =0;
         //sets the number of flips
-        flipNHeads(4);
+        flipNHeads(3);
     }
 
     public static void flipNHeads(int n) {
