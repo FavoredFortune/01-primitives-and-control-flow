@@ -19,10 +19,8 @@ public class Pluralize {
 //        count = 1;
 //        animal = "dragon";
 
-        if (count == 0){
+        if (count == 0 || count ==1){
             System.out.println("Let's pluralize! I own " + count + " "+ animal + "s.\n");
-        } else if (count > 1){
-            System.out.println("Let's pluralize! I own " + count + " " + animal + "s.\n");
         } else {
             System.out.println("Let's pluralize! I own " + count + " " + animal + ".\n");
         }

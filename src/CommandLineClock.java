@@ -3,7 +3,7 @@ import java.time.LocalDateTime;
 public class CommandLineClock {
     public static void main(String[] args) throws InterruptedException {
         //introducing the program to a user with an overview of purpose and expected output
-        String greeting = "Welcome to this Command Line Clock Java program \nthat will print out the time, second by second \n that can only be stopped by CTRL +C or the stop button in the IDE";
+        String greeting = "Welcome to this Command Line Clock Java program \nthat will print out the time, second by second \n that can only be stopped by CTRL +C in the terminal or the stop button in the IDE";
         System.out.println(greeting);
             while (true) {
                 LocalDateTime now = LocalDateTime.now();
@@ -21,7 +21,6 @@ public class CommandLineClock {
                     Thread.currentThread().interrupt();
                 }
             }
-
 
         }
 

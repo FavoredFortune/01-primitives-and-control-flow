@@ -36,6 +36,7 @@ public class FlipNCoins {
         } else{
             System.out.println("It took " + flips + " flips to flip "+ n + " heads in a row");
         }
+        System.out.println("Thanks for checking this program out. \nSuccessful code will end with the message \n\'Process finished with exit code 0\'");
     }
 }
 

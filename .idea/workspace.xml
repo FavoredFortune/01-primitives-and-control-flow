@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae241a8-06dc-4a61-b7cd-a51b6cd172af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-primitives-and-control-flow.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/01-primitives-and-control-flow/FlipNCoins.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/01-primitives-and-control-flow/Pluralize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/01-primitives-and-control-flow/SpeedCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CommandLineClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommandLineClock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FlipNCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlipNCoins.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pluralize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pluralize.java" afterDir="false" />
@@ -27,8 +19,8 @@
       <file leaf-file-name="Pluralize.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Pluralize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="28" column="89" selection-start-line="28" selection-start-column="89" selection-end-line="28" selection-end-column="89" />
+            <state relative-caret-position="148">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -36,8 +28,8 @@
       <file leaf-file-name="FlipNCoins.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FlipNCoins.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="229">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -45,7 +37,7 @@
       <file leaf-file-name="CommandLineClock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CommandLineClock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="504">
               <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
@@ -104,6 +96,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -246,22 +241,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FlipNCoins.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="229">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CommandLineClock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="504">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pluralize.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="28" column="89" selection-start-line="28" selection-start-column="89" selection-end-line="28" selection-end-column="89" />
+        <state relative-caret-position="148">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
